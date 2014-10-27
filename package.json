@@ -1,0 +1,17 @@
+{
+  "name": "rest-args",
+  "version": "1.0.0",
+  "description": "A tiny util for getting all non-named arguments from a function via an arguments object.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grape": "^1.0.3"
+  }
+}
