@@ -1,6 +1,6 @@
 {
   "name": "rest-args",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny util for getting all non-named arguments from a function via an arguments object.",
   "main": "index.js",
   "directories": {
