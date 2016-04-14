@@ -13,5 +13,14 @@
   "license": "ISC",
   "devDependencies": {
     "grape": "^1.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoryNunn/rest-args.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/KoryNunn/rest-args/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/rest-args#readme"
 }
